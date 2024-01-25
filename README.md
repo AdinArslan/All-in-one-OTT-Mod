@@ -1,7 +1,7 @@
 # All-in-one-OTT-Mod
 
 ## All-in-One Entertainment Playground: Scrape Your Binge Bliss!
-![All OTT Logo](OTT.png)
+![All OTT Logo](OTTT.png)
 
 Tired of juggling a million streaming apps and drowning in subscription fees? Say hello to your content nirvana: a modded masterpiece that merges Netflix, Prime, Disney+, HBO Max, and all the bigwigs into one streaming oasis. No app fatigue, no storage wars, just endless binge fuel at your fingertips. ✨
 
